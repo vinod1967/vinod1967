@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vinod Inamdar
 - 👀 I’m interested in Data Science, Machine Learning, and Deep Learning
-- 🌱 I’m currently learning Python (Baby Steps)
-- 💞️ Collaboration is a long way off for me at the moment as I am getting trained in the nitty gritties of Python.
+- 🌱 Also interested in languages like Java, Python, and Full Stack Web Development
 - 📫 Reach me at vinod.inamdar@gmail.com
 
 <!---
